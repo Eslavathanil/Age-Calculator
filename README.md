@@ -22,6 +22,8 @@ For support, email chinnueslavath@gmail.com
 ## 🛠 Skills
 Javascript, HTML, CSS...
 
+## GIF
+![Logo](https://media.tenor.com/2y_YJ0gTENYAAAAi/penguin-math.gif)
 # usage
 Open the web application in your browser by following the steps.
 
